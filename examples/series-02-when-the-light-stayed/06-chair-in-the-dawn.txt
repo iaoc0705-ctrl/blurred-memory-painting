@@ -1,0 +1,9 @@
+Use case: stylized-concept
+Asset type: series panel 6 of 6, "When the Light Stayed"
+Primary request: A quiet original oil painting with no people. A plain wooden chair stands alone in shallow water at the edge of a flooded field before sunrise. The chair faces away toward a low band of light; one leg is submerged, and a dark coat has been left across its back. The coat and chair should be recognisable but their lower edges dissolve into reflected sky.
+Style/medium: Oil on rough canvas, matte and chalky. Dry-brush drag, scumbled mist, scraped water reflections, visible canvas weave, uneven finish. The chair must remain slightly awkward and real, not a design object. A painted memory, not a photograph.
+Composition/framing: Portrait 4:5. The chair is near the lower centre, a little too close for comfort; flooded field and enormous pale sky surround it. The horizon is low and unstable, as if the water has erased the usual boundary between land and sky.
+Lighting/mood: Before sunrise, a wide dull rose and amber band appears under heavy blue-grey cloud. There is no person, but the coat means someone left only recently. Let the dawn be broad and meaningful rather than reducing it to a pinprick.
+Color: bone, grey-blue, cold green, muddy brown, dusty rose and muted amber. No polished reflection or photographic sheen.
+Constraints: no people or animals, no readable text, sign, boat name, logo, watermark or signature; original subject and composition.
+Avoid: photographic realism, bokeh, lens blur, smooth digital gradients, fantasy symbolism, horror, pristine furniture, glossy landscape art, decorative sunrise postcard styling.

@@ -1,0 +1,9 @@
+Use case: stylized-concept
+Asset type: series panel 5 of 6, "When the Light Stayed"
+Primary request: A quiet original oil painting of a rain-soaked road at dusk. Only part of one person is visible: a dark blue raincoat and one hand carrying a pair of shoes, already leaving through the left edge of the frame. Their head and face are entirely outside the picture. The wet road continues toward a pale horizon with a distant row of dark trees.
+Style/medium: Oil on rough canvas, matte and chalky. Dry-brush drag across wet ground, scumbled rain air, scraped reflection, visible canvas weave and uneven finish. The half-figure is cut by the frame with no attempt to complete it; its edge dissolves into rain and paint. A painted memory, not a photograph.
+Composition/framing: Portrait 4:5. The cropped body presses against the left edge; wet road occupies the lower two thirds and sends the eye toward a small bright opening in the cloud. The image should feel like someone left half a second before the viewer understood why. Do not make the road an exact city street or a postcard landscape.
+Lighting/mood: Rain has just stopped. A warm dull glow opens under the clouds and lies in broken strips on the road. The road and the cut-off figure carry equal weight.
+Color: slate blue, grey-violet, wet brown, bone, muted amber. Let the dull warm break in the sky occupy real space; it is the time-stamp of the image, not an accent swatch.
+Constraints: one partial figure only, no readable face, text, signs, logos, watermarks or signatures; no vehicles or crowd; original subject and composition.
+Avoid: photographic defocus, bokeh, lens blur, smooth gradients, shiny pavement advertisement aesthetics, neon, cinematic teal-orange grading, fantasy, horror, staged action.

@@ -1,0 +1,9 @@
+Use case: stylized-concept
+Asset type: series panel 5 of 6 - showcase
+Primary request: A quiet painting with no people at all. A single empty wooden chair has been left on a stone quay in sea fog, turned to face the water. The chair is small, about one twelfth of the image height, and slightly off-centre.
+Style/medium: Original oil on canvas, matte and chalky, dry-brush and scumbled strokes. The chair's outline is open - its legs and back dissolve into the fog, so it reads as a soft shape rather than a cut-out. Broad dragged paint, visible canvas weave, uneven finish - some passages wiped down and left raw. A painted memory, not a photograph.
+Composition/framing: Portrait 4:5. Water and fog occupy more than four fifths of the image; the quay is a dark band across the lower third; the chair is the only object in the picture.
+Lighting/mood: White sea fog with almost no contrast and a pale diffuse light band lying low over the water. Quiet, distant, unresolved - the feeling of a place remembered years later.
+Color: chalk white, bone, grey-blue and a faint olive, all muted and greyed; exactly one small warm accent in the whole image - the faded rust-ochre of the chair, no larger than a brush stroke.
+Constraints: no people and no animals anywhere; no readable text, sign, boat name, logo or signature; no clearly dated objects; completely original subject and composition.
+Avoid: photographic defocus, bokeh, lens blur, radial or gaussian blur, tilt-shift, digital airbrushing, smooth gradients, high saturation, golden postcard sunset, glittering highlight path on water, cinematic teal-and-orange grading, HDR, double-exposure ghosts, fantasy or horror atmosphere, sepia filter over a photo, glossy varnish, extra props, boats or birds.

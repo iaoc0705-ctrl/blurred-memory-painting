@@ -1,0 +1,8 @@
+interface:
+  display_name: "朦胧记忆油画"
+  short_description: "把照片和文字画成面孔不可辨、边缘化进背景的朦胧记忆油画，像记不清却忘不掉的瞬间"
+  brand_color: "#6E6A55"
+  default_prompt: "使用 $blurred-memory-painting 把我发的照片改画成面孔不可辨、边缘化进背景的朦胧记忆油画；没有照片时先构思三个场景，选最强的那个生成一张。"
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,9 @@
+Use case: stylized-concept
+Asset type: series panel 3 of 6, "When the Light Stayed"
+Primary request: A quiet original oil painting of an empty outdoor public swimming pool after closing. At the very bottom of the drained pool, one small person in a dark coat stands beside the deep-end ladder, seen from above and from behind. A single faded orange towel hangs over the diving board above. The person looks upward but the face is fully hidden.
+Style/medium: Oil on rough canvas, matte and chalky. Dry-brush drag, scumbled concrete, scraped and repainted blue paint, visible canvas weave, uneven finish. Pool lines fade and break under paint; the person is a soft dark mark that partly merges with the floor. A painted memory, not a photograph.
+Composition/framing: Portrait 4:5, looking down into the rectangle of the empty pool. The pool is a huge pale blue container around the tiny figure. The diving board enters from one upper corner and the orange towel is the only warm interruption. Keep the geometry slightly off, as if remembered rather than measured.
+Lighting/mood: Cold late-afternoon light and a strip of warm sun on one wall. The scene should feel ordinary but privately strange: someone arrived too late, or stayed after everyone else left.
+Color: faded pool blue, chalk white, cold grey, worn concrete, a little olive; the orange towel is allowed to hold the eye. No glossy water, no pristine architecture.
+Constraints: exactly one figure, no readable face, text, logos, lane numbers, watermarks or signatures; no other people; original subject and composition.
+Avoid: photographic realism, bokeh, lens blur, smooth gradients, dramatic thriller lighting, horror, surreal objects, clean modern architectural rendering.

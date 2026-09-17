@@ -1,0 +1,9 @@
+Use case: stylized-concept
+Asset type: portfolio preview for a painting-style image skill
+Primary request: A quiet painting of one figure, seen from behind, standing alone at the water's edge on a low stone breakwater, coat collar up, hands in pockets, looking out at the horizon. The face is never readable.
+Style/medium: Original oil on canvas, matte and chalky, dry-brush and scumbled strokes, lost and blurred edges where the figure dissolves into the wet air, visible canvas weave, uneven finish - some passages resolved, others wiped down and left raw. A painted memory, not a photograph.
+Composition/framing: Portrait format, roughly 4:5. The figure is small in the frame, about one eighth of the image height, placed left of centre; sea and sky occupy more than three quarters of the picture; horizon slightly high; unhurried, off-centre framing as if someone glanced up and saw this.
+Lighting/mood: Low backlit sun just above the horizon behind the figure; the body reads almost entirely as a soft dark silhouette with its edges bitten away by light; quiet, distant, unresolved - the feeling of a moment remembered years later.
+Color: chalk white, bone, grey-blue, olive, faint ochre and dusty rose; a single warm accent - a narrow band of warm light on the water running toward the viewer. Everything else recedes into weather.
+Constraints: face and identity withheld; exactly one figure, no crowd; no readable text, sign, logo, or signature; no clearly dated objects; completely original subject and composition.
+Avoid: photographic defocus, bokeh, lens blur, radial or gaussian blur, tilt-shift, digital airbrushing, smooth gradients, sharp facial features, high saturation, cinematic teal-and-orange grading, HDR, double-exposure ghosts, fantasy or horror atmosphere, sepia filter over a photo, glossy varnish, crowds, staged emotion.

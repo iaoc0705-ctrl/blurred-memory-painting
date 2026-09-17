@@ -1,0 +1,9 @@
+Use case: stylized-concept
+Asset type: series panel 6 of 6 - showcase
+Primary request: A quiet painting, extremely close. Only the back of a head and one shoulder fill the lower left of the frame, entirely in shadow as a single soft dark mass with no readable outline, set against a bright backlit sea and fog. Absolutely no facial features, no profile, no ear, no neck detail, no hair strands - just a shape.
+Style/medium: Original oil on canvas, matte and chalky, dry-brush and scumbled strokes. The mass has no closed edge at all - it bleeds into the luminous air around it. Broad dragged paint, visible canvas weave, uneven finish - some passages wiped down and left raw. A painted memory, not a photograph.
+Composition/framing: Portrait 4:5. The dark mass occupies roughly the lower left third; the rest is luminous white fog and water; the air is the subject.
+Lighting/mood: Strong backlight from the sea biting the edge of the shape away; the air glows. Quiet, distant, unresolved - the feeling of a moment remembered years later.
+Color: chalk white, bone and grey-blue dominate; exactly one small warm accent in the whole image - a faint ochre in the shoulder of the shape.
+Constraints: face and identity withheld; the figure is cropped so closely that no face could ever be read; no other people; no readable text, sign, logo or signature; completely original subject and composition.
+Avoid: photographic defocus, bokeh, lens blur, radial or gaussian blur, tilt-shift, digital airbrushing, smooth gradients, sharp facial features, ears, hair detail, stubble, high saturation, rim-light cliche, cinematic teal-and-orange grading, HDR, double-exposure ghosts, fantasy or horror atmosphere, sepia filter over a photo, glossy varnish.

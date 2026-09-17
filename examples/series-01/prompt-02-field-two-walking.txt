@@ -1,0 +1,9 @@
+Use case: stylized-concept
+Asset type: series panel 2 of 6 - showcase
+Primary request: A quiet painting of two figures walking away from us side by side across an open field at low sun. They are mid-distance and small, about one ninth of the image height, shoulders nearly touching, both facing the same way. No faces; their heads are soft dark shapes.
+Style/medium: Original oil on canvas, matte and chalky, dry-brush and scumbled strokes. Their outlines are open - shoulders, coat hems and legs dissolve into the wet air and merge with the field, so the bodies read as soft dark masses rather than cut-outs. Broad dragged paint, visible canvas weave, uneven finish - some passages resolved, others wiped down and left raw. A painted memory, not a photograph.
+Composition/framing: Portrait 4:5. A wide band of ochre field across the lower part, a low horizon, a large pale sky; the two figures off-centre, one slightly ahead of the other.
+Lighting/mood: The low sun sits directly behind them, so the bodies are dark shapes and their shadows run long toward the viewer. Quiet, distant, unresolved - the feeling of a moment remembered years later.
+Color: chalk white, bone, grey-blue, olive and faint ochre, all muted and greyed; the one warm accent is the low light lying across the field, plus a hint of rust on one coat.
+Constraints: faces and identities withheld; exactly two figures, no crowd; no readable text, sign, logo or signature; no clearly dated objects; completely original subject and composition.
+Avoid: photographic defocus, bokeh, lens blur, radial or gaussian blur, tilt-shift, digital airbrushing, smooth gradients, sharp facial features, high saturation, a full sun disc, glittering highlight path on grass, golden postcard sunset, cinematic teal-and-orange grading, HDR, double-exposure ghosts, fantasy or horror atmosphere, sepia filter over a photo, glossy varnish, crowds, staged emotion.

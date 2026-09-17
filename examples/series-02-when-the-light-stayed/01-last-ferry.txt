@@ -1,0 +1,9 @@
+Use case: stylized-concept
+Asset type: series panel 1 of 6, "When the Light Stayed"
+Primary request: A quiet original oil painting of one traveller at the far end of a long sea pier, seen entirely from behind. A small rust-red suitcase stands beside one leg. Far out on the water, a white ferry has already moved away, leaving a broken pale wake. The traveller is not waving and does not move; the face is impossible to read.
+Style/medium: Oil on rough canvas, matte and chalky. Dry-brush drag, scumbled passages, scraped paint, visible canvas weave, uneven levels of finish. The coat hem and shoes dissolve into the wet planks; the sea and sky have rubbed, unfinished edges. It is a painting of a memory, not a photograph.
+Composition/framing: Portrait 4:5. The pier starts close in the lower left and recedes toward the small figure; the ferry sits at the horizon. The figure is off centre and small, but the warm setting sun is broad enough to make the whole waterline feel like one late, irreversible minute. Let the open sky be large, but do not make the scene tidy or balanced.
+Lighting/mood: A low sun is visible through thin cloud behind the ferry. Its warm light catches the wet pier and the broken wake, while the traveller remains a soft dark shape. Stillness after an ordinary departure, with no explanation of who was on the ferry.
+Color: weathered grey-blue, bone white, olive, faded brown, muted amber and rust. The sunset and suitcase may be warm and prominent because they hold the time of day; avoid neon, HDR, teal-orange grading, or glossy spectacle.
+Constraints: exactly one figure, no readable face, text, logo, sign, timetable, brand, watermark or signature; no crowd; original people, place and composition.
+Avoid: photographic defocus, bokeh, lens blur, gaussian blur, smooth digital gradients, polished cinematic photography, sharp facial features, fantasy, horror, staged grief.

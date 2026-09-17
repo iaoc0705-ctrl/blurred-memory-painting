@@ -1,0 +1,9 @@
+Use case: stylized-concept
+Asset type: series panel 4 of 6, "When the Light Stayed"
+Primary request: A quiet original oil painting inside a small kitchen just before dark. One person is standing at the open window with their back to us, one hand resting on the sill. A second chair is pushed back from a table, while a glass of water catches the remaining light. The face is hidden by the window frame and dusk beyond it.
+Style/medium: Oil on rough canvas, matte and chalky. Dry-brush drag, scumbled shadows, thin scraped layers, visible canvas weave, uneven finish. The figure's shoulder and the chair edges dissolve into the dark room; the glass is only a small broken brush mark. A painted memory, not a photograph.
+Composition/framing: Portrait 4:5. The figure sits near the right third, the table occupies the lower edge, and the open window is bright but not centered. A large unpainted-feeling dark wall is allowed to occupy much of the left side. Keep the second chair legible enough to imply absence without turning it into a still-life illustration.
+Lighting/mood: The last orange-pink evening light comes through the window, catching the water glass and the back of the person’s sleeve. The room remains olive and brown. It should feel like the moment after a conversation has stopped, without showing what was said.
+Color: deep olive, old brown, bone, grey-violet, dusty rose and faded amber. The window glow may be broad because it carries the scene’s time, but it must remain matte and weathered.
+Constraints: exactly one figure, no readable face, text, logos, devices, watermarks or signatures; no other people; original subject and composition.
+Avoid: photographic realism, bokeh, lens blur, smooth digital gradients, cosy lifestyle styling, obvious sadness acting, cinematic teal-orange grading, fantasy, horror.

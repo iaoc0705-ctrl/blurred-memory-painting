@@ -1,0 +1,9 @@
+Use case: stylized-concept
+Asset type: series panel 4 of 6 - showcase
+Primary request: A quiet painting of one figure stepping out of the picture at the very edge of the frame, on a wet empty street just after rain. Seen from behind and slightly from the side, mid-stride, only half of him still inside the frame. No face and no profile.
+Style/medium: Original oil on canvas, matte and chalky, dry-brush and scumbled strokes. The figure's outline is open - the shoulder, coat hem and legs dissolve into the wet air and merge with the street, so the body reads as a soft dark mass rather than a cut-out. Broad dragged paint, visible canvas weave, uneven finish - some passages resolved, others wiped down and left raw. A painted memory, not a photograph.
+Composition/framing: Portrait 4:5. A long empty street with a low horizon; the figure hugs the right edge and is about one sixth of the image height; the rest is empty wet road and a pale sky.
+Lighting/mood: Flat backlit grey after rain; the brightest thing in the picture is the pale reflection lying on the wet asphalt. Quiet, distant, unresolved - the feeling of a moment remembered years later.
+Color: chalk white, bone, grey-blue and olive, all muted and greyed; exactly one small warm accent in the whole image - his coat, drained toward rust and ochre.
+Constraints: face and identity withheld; exactly one figure, no other people; remove all signage, shop fronts, brand marks, vehicles, street furniture, puddles of streetlight colour and any legible text; no clearly dated objects; completely original subject and composition.
+Avoid: photographic defocus, bokeh, lens blur, radial or gaussian blur, tilt-shift, digital airbrushing, smooth gradients, sharp facial features, high saturation, neon reflections, cinematic teal-and-orange grading, HDR, double-exposure ghosts, fantasy or horror atmosphere, sepia filter over a photo, glossy varnish, crowds, staged emotion.

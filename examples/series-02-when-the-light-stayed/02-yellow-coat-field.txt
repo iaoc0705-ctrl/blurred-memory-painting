@@ -1,0 +1,9 @@
+Use case: stylized-concept
+Asset type: series panel 2 of 6, "When the Light Stayed"
+Primary request: A quiet original oil painting of two people crossing a field in wind, seen from behind at middle distance. They are walking in the same direction but with a few metres of grass between them; one wears a dull yellow coat, the other a deep blue-grey coat. Their heads are small dark shapes and no faces can be read. Neither reaches for the other.
+Style/medium: Oil on rough canvas, matte and chalky. Dry-brush drag through the grass, scumbled sky, wiped-down passages, visible canvas weave, uneven finish. The lower edges of the coats lose themselves in the field; the bodies are soft weathered shapes rather than clean silhouettes. A painted memory, not a photograph.
+Composition/framing: Portrait 4:5. The figures are lower and slightly right of centre. Wind has pushed the long grass in one direction and opened an enormous cloud ceiling above them. The yellow coat is a warm hinge in an otherwise grey-green picture. Do not arrange them symmetrically.
+Lighting/mood: Late sun pushes through a cloud break behind the two figures, turning the field briefly gold in strips while the sky remains cold. The image should feel like a shared walk whose conversation cannot be overheard.
+Color: cloudy blue-grey, olive, bone, tired ochre, dusty yellow and brown. The yellow coat and the accidental gold in the field are allowed to be visually strong; they must feel weathered, not decorative.
+Constraints: exactly two figures, no readable faces, text, signs, logos, watermarks or signatures; no crowd; original subject and composition.
+Avoid: photographic defocus, bokeh, lens blur, smooth digital gradients, romantic couple posing, hand-holding, melodrama, high-fashion styling, fantasy, horror.
